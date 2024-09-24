@@ -1,0 +1,94 @@
+body {
+    padding: 20px;
+    background-color: black;
+    font-family: "VT323", monospace;
+    font-weight: 400;
+
+}
+
+.project_section {
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    flex-direction: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF0000;
+    font-size: 30px;
+    color: white;
+
+
+}
+
+.project_heading {
+    color: red;
+    display: flex;
+    margin: 20px;
+    flex-direction: center;
+    align-items: center;
+    font-size: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0;
+    animation: typing 3s steps(22) 1s forwards, blink-caret 0.75s step-end infinite;
+
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 17ch;
+    }
+}
+
+@keyframes blink-caret {
+
+    from,
+    to {
+        border-color: transparent;
+    }
+
+    50% {
+        border-color: black;
+    }
+}
+
+
+.project_video {
+    width: 65vw;
+    min-width: 320px;
+}
+
+
+.project_img {
+    width: 19%;
+    margin: 5px;
+    transition: filter 0.3s ease;
+
+}
+
+//.project_img:hover {
+    filter: brightness(1.5);
+
+}
+
+
+.Find-More-Friends-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 25px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+
+
+}
