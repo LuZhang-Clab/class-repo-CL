@@ -1,0 +1,99 @@
+{
+    "friend":[
+{
+    "Name":"Snow White",
+    "Pronouns":"she/her" ,
+    "Age":"101" , 
+    "From":"Germany",  
+    "FriendshipMotto":"If you want to know the secret of surviving after eating a poisoned apple, add me as a friend. ", 
+    "FriendshipPreferences":"Chemists, biologists, doctors, pharmacists, handsome men",
+    "ProfileImage": "https://drive.google.com/file/d/1Om0cFHa0nhb9ckmp2m0FGqfUIcyZh2Ls/uc?export=view"
+},
+      
+{
+    "Name":"Monkey King",
+    "Pronouns":"it" ,
+    "Age":"2000ish" , 
+    "From":"China",  
+    "FriendshipMotto":"I can support the whole Earth with a small stick. I can fly 108,000 miles with a flip. ", 
+    "FriendshipPreferences":"Physicists, kinesiologists, people who don’t nag "
+},
+
+{
+    "Name":"Winnie",
+    "Pronouns":"it" ,
+    "Age":"98" , 
+    "From":"America",  
+    "FriendshipMotto":"I eat honey every day, but I control my blood sugar very well. If you also love sweets, we will become great friends. ", 
+    "FriendshipPreferences":"Scientists who love sweets "
+},
+
+{
+    "Name":"The Little Prince",
+    "Pronouns":"he/him" ,
+    "Age":"82" , 
+    "From":"France",  
+    "FriendshipMotto":"I excel in interstellar travel and rose care. I have a very good pilot friend who writes biographies (if you want to leave a mark in history, I don’t mind introducing you to him). ", 
+    "FriendshipPreferences":"Astronauts, pilots, botanists"
+},
+        
+ 
+{
+    "Name":"Doraemon",
+    "Pronouns":"it" ,
+    "Age":"37" , 
+    "From":"Japan",  
+    "FriendshipMotto":"I have a Anywhere Door that can take you anywhere you want in an instant. I also have a magic pocket that can hold the whole world. I have many friends, like Nobita and Shizuka, and we can travel around the world together; you’ll love them. ", 
+    "FriendshipPreferences":"Physicists, travelers"
+},
+        
+{
+    "Name":"Mona Lisa",
+    "Pronouns":"she/her" ,
+    "Age":"500ish" , 
+    "From":"Italy",  
+    "FriendshipMotto":"The whole world wants to know the secret of my smile; do you want to know? ", 
+    "FriendshipPreferences":"All my admirers; I don’t mind being friends with you. "
+},
+        
+{
+    "Name":"Barbie",
+    "Pronouns":"she/her" ,
+    "Age":"Secret" , 
+    "From":"America",  
+    "FriendshipMotto":" I can stay forever young and keep my figure. We can discuss topics on scientific diets and fitness. In my spare time, I love researching fashion. ", 
+    "FriendshipPreferences":"Nutritionists, kinesiologists, biologists, fashion experts"
+},     
+
+{
+    "Name":"Nezha",
+    "Pronouns":"he/she" ,
+    "Age":"3000ish" , 
+    "From":"China",  
+    "FriendshipMotto":"I have three heads and six arms, and I have a pair of Wind Fire Wheels. Riding them, I can take off.", 
+    "FriendshipPreferences":"Anyone who isn’t friends with that Monkey is fine; he and I fight a lot."
+},  
+
+{
+    "Name":"Mario",
+    "Pronouns":"he/him" ,
+    "Age":"39" , 
+    "From":"Japan",  
+    "FriendshipMotto":" On the surface, I’m a plumber, but no one knows the hidden codes in the city’s architecture better than me.", 
+    "FriendshipPreferences":"Architects, mechanical experts, urban design experts, suspenders enthusiasts"
+}, 
+
+{
+    "Name":"Jerry",
+    "Pronouns":"it" ,
+    "Age":"84" , 
+    "From":"America",  
+    "FriendshipMotto":"I know that every creature has a natural enemy, but you all know how I’ve tricked that TOM guy, right? Navigating life is actually quite easy!", 
+    "FriendshipPreferences":"Trap designers"
+}
+
+
+    ]
+
+}
+
